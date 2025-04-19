@@ -1,1 +1,1 @@
-<p>Jairo Delgado</p>
+<p align="center">Jairo Delgado</p>
