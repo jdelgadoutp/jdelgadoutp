@@ -5,5 +5,6 @@
 </p>
 
 <p>
- <h2>🚀 Actualmente trabajando en</h2>
+ <h2>🚀 Actualmente trabajando en:</h2>
+ <p>- Integraciones bancarias</p>
 </p>
