@@ -3,3 +3,5 @@
  <h2 align="center">Jairo Andrés Delgado López</h2>
  <p align="center">💻 Systems and computer engineer | Desarrollador FullStack | Administrador de Infraestructura IT</p>
 </p>
+
+<p align="center">🚀 Actualmente trabajando en:</p>
