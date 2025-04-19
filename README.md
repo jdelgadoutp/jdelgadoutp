@@ -4,7 +4,7 @@
  <p align="center">💻 Systems and computer engineer | Desarrollador FullStack | Administrador de Infraestructura IT</p>
 </p>
 
-<p>
+<p align="center">
  <h2>🚀 Actualmente trabajando en:</h2>
  <p>- Integraciones bancarias</p>
 </p>
