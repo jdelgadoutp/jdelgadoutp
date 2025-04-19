@@ -4,4 +4,6 @@
  <p align="center">💻 Systems and computer engineer | Desarrollador FullStack | Administrador de Infraestructura IT</p>
 </p>
 
-<p align="center">🚀 Actualmente trabajando en:</p>
+<p>
+ <h2>🚀 Actualmente trabajando en</h2>
+</p>
