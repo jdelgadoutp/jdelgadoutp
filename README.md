@@ -10,7 +10,6 @@
  <p>- Integración sistemas de terceros</p>
  <p>- Desarrollo web fullstack</p>
  <p>- Soporte de Infraestructura en entornos Linux y Windows</p>
- <p>- Cloud despliegue de Apps</p>
 </p>
 
 <p align="center">
@@ -83,4 +82,9 @@
         <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white"> 
         <img src="https://img.shields.io/badge/Pinia-FFD859?style=for-the-badge&logo=pinia&logoColor=black">
     </p> 
+    <h3 align="center">🌐 Seguridad Perimetral</h3>
+    <p align="center">
+        <img src="https://img.shields.io/badge/Palo_Alto_Networks-4E8E1F?style=for-the-badge&logo=paloaltonetworks&logoColor=white"> 
+        <img src="https://img.shields.io/badge/Sophos-DF3A3A?style=for-the-badge&logo=sophos&logoColor=white">
+    </p>
 </p>
