@@ -15,4 +15,9 @@
 
 <p align="center">
     <h2>📫 Cómo contactarme:</h2>
+    <p>📧 engineer@jairodelgado.com</p>
+    <a href="https://www.linkedin.com/in/jairodelgadoenginer/">
+        <img src="http://www.w3.org/2000/svg" viewBox="0 0 24 24" data-supported-dps="24x24" fill="currentColor" class="mercado-match" width="24" height="24" focusable="false">
+    </a>
 </p>
+
