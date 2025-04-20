@@ -82,9 +82,10 @@
         <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white"> 
         <img src="https://img.shields.io/badge/Pinia-FFD859?style=for-the-badge&logo=pinia&logoColor=black">
     </p> 
-    <h3 align="center">🌐 Seguridad Perimetral</h3>
+    <h3 align="center">🔐 Redes y otros</h3>
     <p align="center">
         <img src="https://img.shields.io/badge/Palo_Alto_Networks-4E8E1F?style=for-the-badge&logo=paloaltonetworks&logoColor=white"> 
         <img src="https://img.shields.io/badge/Sophos-DF3A3A?style=for-the-badge&logo=sophos&logoColor=white">
+        <img src="https://img.shields.io/badge/Furukawa_Electric_LatAm-FF4F58?style=for-the-badge&logo=furukawa&logoColor=white">
     </p>
 </p>
