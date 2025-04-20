@@ -20,5 +20,11 @@
         <a href="https://www.linkedin.com/in/jairodelgadoengineer/">
             jairodelgadoengineer 
         </a>
-    </p>  
+    </p>
+    <p>- 📱 [Telegram]
+        <a href="https://www.t.me/delgadojairo">
+            @delgadojairo
+        </a>
+    </p>    
 </p>
+
