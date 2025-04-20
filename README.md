@@ -7,6 +7,12 @@
 <p align="center">
  <h2>🚀 Actualmente trabajando en:</h2>
  <p>- Integraciones bancarias</p>
- <p>- Desarrollo web back-end</p>
- <p>- Desarrollo web front-end</p>
+ <p>- Integración sistemas de terceros</p>
+ <p>- Desarrollo web fullstack</p>
+ <p>- Soporte de Infraestructura en entornos Linux y Windows</p>
+ <p>- Cloud despliegue de Apps</p>
+</p>
+
+<p align="center">
+    <h2>📫 Cómo contactarme:</h2>
 </p>
