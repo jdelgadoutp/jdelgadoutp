@@ -7,4 +7,6 @@
 <p align="center">
  <h2>🚀 Actualmente trabajando en:</h2>
  <p>- Integraciones bancarias</p>
+ <p>- Desarrollo web back-end</p>
+ <p>- Desarrollo web front-end</p>
 </p>
