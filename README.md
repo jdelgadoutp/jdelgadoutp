@@ -16,7 +16,10 @@
 <p align="center">
     <h2>📫 Cómo contactarme:</h2>
     <p>- 📧 engineer@jairodelgado.com</p>
-    <a href="https://www.linkedin.com/in/jairodelgadoenginer/">
-        - <img width="20px" src="src/assets/linkedin.png"> jairodelgadoengineer
-    </a>
+    <p>-
+        <img width="20px" src="src/assets/linkedin.png">
+        <a href="https://www.linkedin.com/in/jairodelgadoenginer/">
+            jairodelgadoengineer 
+        </a>
+    </p>  
 </p>
