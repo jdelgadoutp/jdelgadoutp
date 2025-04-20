@@ -28,3 +28,12 @@
     </p>    
 </p>
 
+<p align="centet">
+    <h2>Tecnologias</h2>
+    <p>
+        ![Python]
+        <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+    </p>
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+</p>
+
