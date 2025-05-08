@@ -1,15 +1,15 @@
 <p align="center">
- <img width="300px" src="src/assets/logoblanco.png" align="center" alt="Jairo Andrés Delgado López" />
+ <img width="300px" src="src/assets/logoblanco.png" align="center" alt="Jairo Andrés Delgado López"   />
  <h2 align="center">Jairo Andrés Delgado López</h2>
  <p align="center">💻 Systems and computer engineer | FullStack Developer | IT Infrastructure Administrator</p>
 </p>
 
 <p align="center">
  <h2>🚀 Actualmente trabajando en:</h2>
- <p>- Integraciones bancarias</p>
- <p>- Integración sistemas de terceros</p>
- <p>- Desarrollo web fullstack</p>
- <p>- Soporte de Infraestructura en entornos Linux y Windows</p>
+ <p>- 💻 Desarrollo web & ERPs</p>
+ <p>- 🔌 Integro pasarelas, APIs y sistemas</p>
+ <p>- 🚀 Soluciones a medida para tu negocio</p>
+ <p>- 🔐 Soporte de Infraestructura en entornos Linux y Windows</p>
 </p>
 
 <p align="center">
@@ -88,4 +88,5 @@
         <img src="https://img.shields.io/badge/Sophos-DF3A3A?style=for-the-badge&logo=sophos&logoColor=white">
         <img src="https://img.shields.io/badge/Furukawa_Electric_LatAm-FF4F58?style=for-the-badge&logo=furukawa&logoColor=white">
     </p>
+
 </p>
