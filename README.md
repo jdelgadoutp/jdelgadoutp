@@ -1,5 +1,5 @@
 <p align="center">
- <img width="300px" src="src/assets/logoblanco.png" align="center" alt="Jairo Andrés Delgado López"   />
+ <img width="300px" src="src/assets/logodark.png" align="center" alt="Jairo Andrés Delgado López"   />
  <h2 align="center">Jairo Andrés Delgado López</h2>
  <p align="center">💻 Systems and computer engineer | FullStack Developer | IT Infrastructure Administrator</p>
 </p>
