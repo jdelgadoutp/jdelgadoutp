@@ -38,4 +38,14 @@ Convierte montos numéricos a texto en español.
 ### <img src="https://user-gen-media-assets.s3.amazonaws.com/seedream_images/6fd6cbee-af86-45e5-9975-049cac0a11d1.png" width="19px" /> [Turnero](https://github.com/jdelgadoutp/turnero)
 Turnos digitales para negocios físicos.
 
-###
+### <img src="https://user-gen-media-assets.s3.amazonaws.com/seedream_images/19960f53-a554-4ffb-b20f-dfd7e956a713.png" width="19px" /> [Django Plantillas](https://github.com/jdelgadoutp/Django)
+Web modular para desarrollo ágil con Django y FastAPI.
+
+---
+
+## 💪 Skills & Competencias
+
+<p align="center">
+  <img src="https://user-gen-media-assets.s3.amazonaws.com/seedream_images/6fd6cbee-af86-45e5-9975-049cac0a11d1.png" width="26px" /> Python &nbsp;
+  <img src="https://user-gen-media-assets.s3.amazonaws.com/seedream_images/4034e954-dd51-4034-abef-b914c20ae66f.png" width="26px" /> JavaScript &nbsp;
+  <img src="https://user-gen-media-assets.s3.amazonaws.com/seedream_images/19960f53-a554-4ffb-b20f-d
