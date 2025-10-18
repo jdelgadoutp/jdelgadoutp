@@ -1,51 +1,48 @@
 <p align="center">
-  <img src="src/assets/logodark.png" width="170px" alt="Brand Logo Jairo Delgado" />
+  <img width="170px" src="src/assets/logodark.png" alt="Jairo Andrés Delgado López" />
 </p>
 
-<h1 align="center">
-  <img src="https://user-gen-media-assets.s3.amazonaws.com/seedream_images/6fd6cbee-af86-45e5-9975-049cac0a11d1.png" width="34px" /> 
-  Jairo Andrés Delgado López
-</h1>
-
-<p align="center">
-  <strong>Systems & Computer Engineer</strong> · FullStack Developer · IT Infrastructure Admin<br>
-  <img src="https://user-gen-media-assets.s3.amazonaws.com/seedream_images/4034e954-dd51-4034-abef-b914c20ae66f.png" width="20px" /> 
-  Innovación, automatización y alto impacto tecnológico
-</p>
+<h1 align="center">Jairo Andrés Delgado López</h1>
+<p align="center"><b>Systems and Computer Engineer · FullStack Developer · IT Infrastructure Administrator</b></p>
 
 ---
 
-## 🚀 Sobre mí
-Soy un creador digital motivado por la tecnología útil y las experiencias transformadoras.<br>
-Me concentro en automatización y desarrollo FullStack, siempre interesado en proyectos disruptivos y colaborativos.
+## 🚀 Actualmente trabajando en
+
+- Desarrollo web, ERPs y soluciones personalizadas para tu negocio  
+- Integración de pasarelas de pago, APIs y sistemas externos  
+- Soporte y automatización de infraestructura en entornos Linux y Windows
 
 ---
 
-## 💡 Actualmente trabajando en
+## 📫 Cómo contactarme
 
-- <img src="https://user-gen-media-assets.s3.amazonaws.com/seedream_images/4034e954-dd51-4034-abef-b914c20ae66f.png" width="18px" /> ERP y desarrollo web para startups y pymes
-- <img src="https://user-gen-media-assets.s3.amazonaws.com/seedream_images/6fd6cbee-af86-45e5-9975-049cac0a11d1.png" width="18px" /> Integración APIs y plataformas digitales
-- <img src="https://user-gen-media-assets.s3.amazonaws.com/seedream_images/19960f53-a554-4ffb-b20f-dfd7e956a713.png" width="18px" /> Automatización de procesos y workflows (Cloud + Local)
-- <img src="https://user-gen-media-assets.s3.amazonaws.com/seedream_images/19960f53-a554-4ffb-b20f-dfd7e956a713.png" width="18px" /> Infraestructura IT sobre Linux y Windows
-
----
-
-## 🚀 Proyectos de Alto Impacto
-
-### <img src="https://user-gen-media-assets.s3.amazonaws.com/seedream_images/4034e954-dd51-4034-abef-b914c20ae66f.png" width="19px" /> [MontoEscrito](https://github.com/jdelgadoutp/MontoEscrito)
-Convierte montos numéricos a texto en español.
-
-### <img src="https://user-gen-media-assets.s3.amazonaws.com/seedream_images/6fd6cbee-af86-45e5-9975-049cac0a11d1.png" width="19px" /> [Turnero](https://github.com/jdelgadoutp/turnero)
-Turnos digitales para negocios físicos.
-
-### <img src="https://user-gen-media-assets.s3.amazonaws.com/seedream_images/19960f53-a554-4ffb-b20f-dfd7e956a713.png" width="19px" /> [Django Plantillas](https://github.com/jdelgadoutp/Django)
-Web modular para desarrollo ágil con Django y FastAPI.
+- 🌎 <a href="https://www.jairodelgado.com/">jairodelgado.com</a>
+- 📧 engineer@jairodelgado.com
+- 💼 <a href="https://www.linkedin.com/in/jairodelgadoengineer/">jairodelgadoengineer</a>
+- 📱 <a href="https://t.me/delgadojairo">delgadojairo</a>
 
 ---
 
 ## 💪 Skills & Competencias
 
+### Lenguajes de Programación
+
 <p align="center">
-  <img src="https://user-gen-media-assets.s3.amazonaws.com/seedream_images/6fd6cbee-af86-45e5-9975-049cac0a11d1.png" width="26px" /> Python &nbsp;
-  <img src="https://user-gen-media-assets.s3.amazonaws.com/seedream_images/4034e954-dd51-4034-abef-b914c20ae66f.png" width="26px" /> JavaScript &nbsp;
-  <img src="https://user-gen-media-assets.s3.amazonaws.com/seedream_images/19960f53-a554-4ffb-b20f-d
+  <img src="https://img.shields.io/badge/Python-00B8F4?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-FFEE32?style=for-the-badge&logo=javascript&logoColor=181818"/>
+  <img src="https://img.shields.io/badge/TypeScript-33FFD1?style=for-the-badge&logo=typescript&logoColor=181818"/>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Delphi-E3002C?style=for-the-badge&logo=delphi&logoColor=white"/>
+</p>
+
+### Frameworks y Librerías
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Django%20REST-092E20?style
