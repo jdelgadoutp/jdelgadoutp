@@ -36,16 +36,18 @@ Ingeniero de sistemas con enfoque en **automatización inteligente**, **integrac
 ## GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jdelgadoutp&show_icons=true&theme=transparent&locale=es" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jdelgadoutp&show_icons=true&theme=transparent&layout=compact&locale=es" alt="Top Languages" />
+  <a href="https://github.com/jdelgadoutp">
+    <img src="https://github-readme-stats.vercel.app/api?username=jdelgadoutp&show_icons=true&theme=transparent&locale=es&cache_seconds=86400" alt="GitHub Stats" />
+  </a>
+  <a href="https://github.com/jdelgadoutp">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jdelgadoutp&show_icons=true&theme=transparent&layout=compact&locale=es&cache_seconds=86400" alt="Top Languages" />
+  </a>
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=jdelgadoutp&theme=transparent&locale=es" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=jdelgadoutp&theme=transparent&no-frame=true&column=3" alt="GitHub Trophies" />
+  <a href="https://git.io/streak-stats">
+    <img src="https://streak-stats.demolab.com/?user=jdelgadoutp&theme=transparent&locale=es" alt="GitHub Streak" />
+  </a>
 </p>
 
 ---
