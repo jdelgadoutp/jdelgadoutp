@@ -7,7 +7,7 @@
 <h1 align="center">Jairo Andrés Delgado López</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Ingeniero+de+Sistemas;Integrador+de+Sistemas+IA;Automatización+e+IoT&center=true&width=500&height=50&font=Fira+Code" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com/?lines=Ingeniero+de+Sistemas+y+Computacion;Integrador+de+Sistemas+IA;Automatizacion+e+IoT&center=true&width=550&height=50&font=Fira%20Code&color=36BCF7" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -20,7 +20,7 @@
 
 ## Sobre mí
 
-Ingeniero de sistemas con enfoque en **automatización inteligente**, **integración de sistemas** y **soluciones IoT**. Convierto problemas complejos en flujos automatizados que escalan.
+Ingeniero de sistemas y computación con enfoque en **automatización inteligente**, **integración de sistemas** y **soluciones IoT**. Convierto problemas complejos en flujos automatizados que escalan.
 
 ---
 
@@ -37,10 +37,13 @@ Ingeniero de sistemas con enfoque en **automatización inteligente**, **integrac
 
 <p align="center">
   <a href="https://github.com/jdelgadoutp">
-    <img src="https://github-readme-stats.vercel.app/api?username=jdelgadoutp&show_icons=true&theme=transparent&locale=es&cache_seconds=86400" alt="GitHub Stats" />
+    <img src="https://img.shields.io/github/followers/jdelgadoutp?label=Followers&style=for-the-badge&logo=github&color=36BCF7" alt="GitHub Followers" />
+  </a>
+  <a href="https://github.com/jdelgadoutp?tab=repositories">
+    <img src="https://img.shields.io/github/repos/jdelgadoutp?label=Repos&style=for-the-badge&logo=github&color=36BCF7" alt="GitHub Repos" />
   </a>
   <a href="https://github.com/jdelgadoutp">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jdelgadoutp&show_icons=true&theme=transparent&layout=compact&locale=es&cache_seconds=86400" alt="Top Languages" />
+    <img src="https://img.shields.io/github/stars/jdelgadoutp?label=Stars&style=for-the-badge&logo=github&color=36BCF7" alt="GitHub Stars" />
   </a>
 </p>
 
