@@ -1,9 +1,20 @@
 <p align="center">
-  <img width="350px" src="https://jairodelgado.com/logos/Jairo_Delgado_Logo.png" alt="Jairo Andrés Delgado López" />
+  <a href="https://jairodelgado.com">
+    <img width="350px" src="https://jairodelgado.com/logos/Jairo_Delgado_Logo.png" alt="Jairo Delgado" />
+  </a>
 </p>
 
 <h1 align="center">Jairo Andrés Delgado López</h1>
-<p align="center"><b>Ingeniero de Sistemas · Integrador de Sistemas IA · Automatización e IoT</b></p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Ingeniero+de+Sistemas;Integrador+de+Sistemas+IA;Automatización+e+IoT&center=true&width=500&height=50&font=Fira+Code" alt="Typing SVG" />
+</p>
+
+<p align="center">
+  <a href="https://visitor-badge.laobi.icu/badge?page_id=jdelgadoutp.jdelgadoutp">
+    <img src="https://visitor-badge.laobi.icu/badge?page_id=jdelgadoutp.jdelgadoutp" alt="Visitors" />
+  </a>
+</p>
 
 ---
 
@@ -19,6 +30,23 @@ Ingeniero de sistemas con enfoque en **automatización inteligente**, **integrac
 - **Integración de sistemas** — APIs REST, ERPs, pasarelas de pago, sincronización entre plataformas y microservicios
 - **IoT & Microcontroladores** — Sensores, monitoreo remoto, control automatizado con Arduino, ESP32 y Raspberry Pi
 - **Infraestructura** — Servidores Linux/Windows, despliegue, monitoreo, mantenimiento y seguridad
+
+---
+
+## GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=jdelgadoutp&show_icons=true&theme=transparent&locale=es" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jdelgadoutp&show_icons=true&theme=transparent&layout=compact&locale=es" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=jdelgadoutp&theme=transparent&locale=es" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=jdelgadoutp&theme=transparent&no-frame=true&column=3" alt="GitHub Trophies" />
+</p>
 
 ---
 
@@ -79,7 +107,17 @@ Ingeniero de sistemas con enfoque en **automatización inteligente**, **integrac
 
 ## Cómo contactarme
 
-- 🌎 <a href="https://www.jairodelgado.com/">jairodelgado.com</a>
-- 📧 engineer@jairodelgado.com
-- 💼 <a href="https://www.linkedin.com/in/jairodelgadoengineer/">jairodelgadoengineer</a>
-- 📱 <a href="https://t.me/delgadojairo">delgadojairo</a>
+<p align="center">
+  <a href="https://www.jairodelgado.com/">
+    <img src="https://img.shields.io/badge/jairodelgado.com-000000?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website" />
+  </a>
+  <a href="mailto:engineer@jairodelgado.com">
+    <img src="https://img.shields.io/badge/engineer@jairodelgado.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://www.linkedin.com/in/jairodelgadoengineer/">
+    <img src="https://img.shields.io/badge/jairodelgadoengineer-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://t.me/delgadojairo">
+    <img src="https://img.shields.io/badge/delgadojairo-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
+  </a>
+</p>
