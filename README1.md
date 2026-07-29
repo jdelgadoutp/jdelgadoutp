@@ -4,13 +4,22 @@
  <p align="center">💻 Systems and computer engineer | FullStack Developer | IT Infrastructure Administrator</p>
 </p>
 
+## 🚀 Actualmente trabajando en
 <p align="center">
- <h2>🚀 Actualmente trabajando en:</h2>
  <p>- 💻 Desarrollo web & ERPs</p>
  <p>- 🔌 Integro pasarelas, APIs y sistemas</p>
  <p>- 🚀 Soluciones a medida para tu negocio</p>
  <p>- 🔐 Soporte de Infraestructura en entornos Linux y Windows</p>
 </p>
+---
+
+## 🚀 Actualmente trabajando en
+
+- Desarrollo web, ERPs y soluciones personalizadas para tu negocio  
+- Integración de pasarelas de pago, APIs y sistemas externos  
+- Soporte y automatización de infraestructura en entornos Linux y Windows
+
+---
 
 <p align="center">
     <h2>📫 Cómo contactarme:</h2>
