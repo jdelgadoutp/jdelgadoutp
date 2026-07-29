@@ -40,7 +40,7 @@ Ingeniero de sistemas y computación con enfoque en **automatización inteligent
     <img src="https://img.shields.io/github/followers/jdelgadoutp?label=Followers&style=for-the-badge&logo=github&color=36BCF7" alt="GitHub Followers" />
   </a>
   <a href="https://github.com/jdelgadoutp?tab=repositories">
-    <img src="https://img.shields.io/github/repos/jdelgadoutp?label=Repos&style=for-the-badge&logo=github&color=36BCF7" alt="GitHub Repos" />
+    <img src="https://img.shields.io/badge/Repos-0-36BCF7?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Repos" />
   </a>
   <a href="https://github.com/jdelgadoutp">
     <img src="https://img.shields.io/github/stars/jdelgadoutp?label=Stars&style=for-the-badge&logo=github&color=36BCF7" alt="GitHub Stars" />
